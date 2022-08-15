@@ -1,5 +1,5 @@
 PKG_NAME := pypi-asttokens
-URL = https://files.pythonhosted.org/packages/d4/91/c0200bd42a2d53c9634bc0f377ffbe2e1e3c76976fb02cede53e59377612/asttokens-2.0.7.tar.gz
+URL = https://files.pythonhosted.org/packages/4d/c8/987ee029c83ad1cddb03bb004e9c7a8de1be4cdbda21122a0b9f639fcc31/asttokens-2.0.8.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
