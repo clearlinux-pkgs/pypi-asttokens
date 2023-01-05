@@ -4,7 +4,7 @@
 #
 Name     : pypi-asttokens
 Version  : 2.2.1
-Release  : 18
+Release  : 19
 URL      : https://files.pythonhosted.org/packages/c8/e3/b0b4f32162621126fbdaba636c152c6b6baec486c99f48686e66343d638f/asttokens-2.2.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c8/e3/b0b4f32162621126fbdaba636c152c6b6baec486c99f48686e66343d638f/asttokens-2.2.1.tar.gz
 Summary  : Annotate AST trees with source code positions
